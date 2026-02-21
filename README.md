@@ -38,7 +38,7 @@ To build dynamic dashboards for State & City-level Sales Review meetings, enabli
 
 ## Dataset
 ## Dashboard Image
-Using Excel
-Using Power BI
-Usign Tableau
+- <a href = "https://github.com/ShivaneeSharma/F-B-Sales-Dashboard-Data-Analysis-Project/blob/main/Sales%20Dashboard.png">Excel Dashboard</a>
+- <a href = "https://github.com/ShivaneeSharma/F-B-Sales-Dashboard-Data-Analysis-Project/blob/main/Sales%20Dashboard%20(Power%20BI).png">Power BI Dashboard</a>
+- <a href = "https://github.com/ShivaneeSharma/F-B-Sales-Dashboard-Data-Analysis-Project/blob/main/Sales%20Dashboard%20(Tableau).png">Tableau Dashboard</a>
 
