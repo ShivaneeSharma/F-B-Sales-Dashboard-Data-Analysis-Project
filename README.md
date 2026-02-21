@@ -37,3 +37,8 @@ To build dynamic dashboards for State & City-level Sales Review meetings, enabli
 - Increasing breakfast variety can improve walk-in sales
 
 ## Dataset
+## Dashboard Image
+Using Excel
+Using Power BI
+Usign Tableau
+
