@@ -37,6 +37,7 @@ To build dynamic dashboards for State & City-level Sales Review meetings, enabli
 - Increasing breakfast variety can improve walk-in sales
 
 ## Dataset
+- <a href = "https://docs.google.com/spreadsheets/d/19LsswdQXLOv8y2REk7zKeIcabu8jUtKP/edit?usp=sharing&ouid=108298115615242476978&rtpof=true&sd=true">Dataset</a>
 ## Dashboard Image
 - <a href = "https://github.com/ShivaneeSharma/F-B-Sales-Dashboard-Data-Analysis-Project/blob/main/Sales%20Dashboard.png">Excel Dashboard</a>
 - <a href = "https://github.com/ShivaneeSharma/F-B-Sales-Dashboard-Data-Analysis-Project/blob/main/Sales%20Dashboard%20(Power%20BI).png">Power BI Dashboard</a>
