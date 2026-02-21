@@ -27,6 +27,16 @@ To build dynamic dashboards for State & City-level Sales Review meetings, enabli
 - Monthly Sales Trend
 - Average Bill Value
 - Product Category Contribution
+- Skills Demonstrated
+- Data Analysis
+- Business Intelligence
+- Dashboard Design
+- Data Visualization
+- KPI Development
+- Sales Analytics
+- Performance Reporting
+- Analytical Thinking
+- Insight Communication
 
 ## Key Business Insights
 - Top 3 stores contributed ~50% of total revenue
