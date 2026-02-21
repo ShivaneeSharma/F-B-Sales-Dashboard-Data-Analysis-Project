@@ -36,6 +36,13 @@ To build dynamic dashboards for State & City-level Sales Review meetings, enabli
 - Home Delivery & Takeaway channels show high growth potential
 - Increasing breakfast variety can improve walk-in sales
 
+## Why This Project Matters (For Recruiters)
+This project highlights my ability to:
+- Convert raw transactional data into actionable insights
+- Design business-focused KPIs aligned with company objectives
+- Create interactive dashboards for executive decision-making
+- Identify revenue growth opportunities using data
+
 ## Dataset
 - <a href = "https://docs.google.com/spreadsheets/d/19LsswdQXLOv8y2REk7zKeIcabu8jUtKP/edit?usp=sharing&ouid=108298115615242476978&rtpof=true&sd=true">Dataset</a>
 ## Dashboard Image
